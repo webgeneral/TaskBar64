@@ -1,6 +1,7 @@
 {
      "version": "1.2",
      "build": 10,
+     "creator":"BadCode64",
      "download_url": "https://badcode64.gumroad.com/l/mac-taskbar",
      "release_notes": "• Fixed Dock padding calculation\n• Welcome screen improvements\n• Dynamic default button sizing\n• Bug fixes and performance improvements"
 }
